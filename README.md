@@ -6,7 +6,7 @@ REPRODUCTION
 
 EXPECTED:
 
-only the files in `pk1` should be formatted
+only the files in `pk1/pk1-1` should be formatted
 
 ACTUAL:
 
