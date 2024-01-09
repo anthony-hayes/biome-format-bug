@@ -3,6 +3,9 @@
 	"organizeImports": {
 		"enabled": true
 	},
+	"files": {
+		"include": ["pk1/**"]
+	},
 	"formatter": {
 		"include": [
 			"pk1/**"
