@@ -4,11 +4,16 @@
 		"enabled": true
 	},
 	"files": {
-		"include": ["pk1/**"]
+		"include": ["./pk1/pk1-1/**/*"],
+		"ignoreUnknown": true
 	},
 	"formatter": {
-		"include": [
-			"pk1/**"
-		]
+		"enabled": true,
+		"lineWidth": 120,
+		"indentStyle": "space",
+		"indentWidth": 4
+	},
+	"javascript": {
+		"formatter": {}
 	}
 }
